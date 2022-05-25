@@ -1,0 +1,35 @@
+.container {
+  width: 350px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.popup-headline__title {
+  text-align: center;
+}
+
+.popup-headline__url {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.popup-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.popup-buttons__button {
+  width: 250px;
+  padding: 15px;
+  margin: 5px 0;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  background-color: #4C85F0;
+  color: #FFFFFF;
+}
+

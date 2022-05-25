@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 30px;
+}
+
+.blocked-headline {
+  display: flex;
+}
+
+.blocked-headline__logo {
+  margin-right: 15px;
+}
+
+.blocked-headline__info {
+  margin: auto 0;
+}
+
+.blocked-contents {
+  margin-top: 30px;
+}
+
+.blocked-contents__text {
+  font-size: 60px;
+}

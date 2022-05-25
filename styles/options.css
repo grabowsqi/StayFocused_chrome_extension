@@ -1,0 +1,23 @@
+.container {
+  margin: 30px;
+}
+
+.block-web-adress__input {
+  padding: 8px 10px;
+  margin: 5px 8px 5px 0;
+  width: 400px;
+  border-radius: 8px;
+}
+
+.blocked-sites__list {
+  list-style: none;
+  padding: 0;
+}
+
+.blocked-sites__button, .block-web-adress__button {
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4C85F0;
+  color: #FFFFFF;
+}
